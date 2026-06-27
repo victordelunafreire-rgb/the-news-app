@@ -22,7 +22,7 @@ import {
 	SearchBar,
 	SearchIcon,
 	SearchInput,
-} from "./PodcastScreen.js";
+} from "./PodcastScreen.styles.js";
 
 const episodes = [
 	{
