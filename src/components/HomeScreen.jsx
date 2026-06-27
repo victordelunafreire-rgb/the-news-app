@@ -28,7 +28,7 @@ import {
 	SecondaryCardTitle,
 	SponsorLogo,
 	SponsorRow,
-} from "./HomeScreen";
+} from "./HomeScreen.js";
 
 const sponsors = [stoneLogo, revolutLogo];
 
