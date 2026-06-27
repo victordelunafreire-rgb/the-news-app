@@ -1,7 +1,7 @@
 import brazilImg from "../assets/brazil.jpg";
 import logo from "../assets/logo.jpeg";
 import michelleImg from "../assets/Michelle.avif";
-import revolutLogo from "../assets/revolut-Logo.svg";
+import revolutLogo from "../assets/revolut-logo.svg";
 import stoneLogo from "../assets/stone.svg";
 import venezuelaImg from "../assets/Venezuela.avif";
 import {
